@@ -5,4 +5,4 @@
 
 [code](week1/screenshots)
 
-![progress](week1/screenshots/progress 2.png)
+![progress](week1/screenshots/progress%202.png)
